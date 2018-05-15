@@ -1,0 +1,33 @@
+
+
+const http = require("http");
+const host="localhost";
+const port=3000;
+
+var server=http.createServer(function (request, response) {
+   response.writeHead(200, {'Content-Type': 'text/plain'});
+   response.end('Hello World............NodeJs server...........');
+});
+
+server.listen(port,host,function(){
+ console.log('Server running at http://localhost:3000/');   
+});
+
+=================================================
+npm config set strict--ssl false
+npm config set registry "http://registry.npmjs.org"
+npm config set proxy http://<user>:<pass>@<ip>:<port>
+
+npm config set https-proxy http://<user>:<pass>@<ip>:<port>
+
+
+npm config set strict--ssl false
+npm config set registry "http://registry.npmjs.org"
+npm config set proxy http://10.0.100.4:8080
+
+npm config set https-proxy http://10.0.100.4:8080
+======================================================
+C:\Program Files\MongoDB\Server\3.2\
+
+C:\Program Files\MongoDB\Server\3.2\data\db
+C:\Program Files\MongoDB\Server\3.2\logs

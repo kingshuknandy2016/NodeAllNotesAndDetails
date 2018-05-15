@@ -1,0 +1,454 @@
+POST /users/register 500 74.542 ms - 3859
+GET /stylesheets/bootstrap.css 304 5.736 ms - -
+GET /stylesheets/style.css 304 5.942 ms - -
+GET /javascripts/bootstrap.js 304 5.097 ms - -
+GET /stylesheets/bootstrap.css.map 304 1.362 ms - -
+^CTerminate batch job (Y/N)?
+^C
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm start
+
+> exp-login-app@0.0.0 start C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+> node ./bin/www
+
+POST /users/register 200 873.500 ms - 2325
+GET /stylesheets/bootstrap.css 304 13.756 ms - -
+GET /stylesheets/style.css 304 10.148 ms - -
+GET /javascripts/bootstrap.js 304 10.968 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.518 ms - -
+^CTerminate batch job (Y/N)?
+^CThe system cannot open the device or file specified.
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm start
+
+> exp-login-app@0.0.0 start C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+> node ./bin/www
+
+POST /users/register 200 1435.603 ms - 2356
+GET /stylesheets/bootstrap.css 304 6.391 ms - -
+GET /stylesheets/style.css 304 12.322 ms - -
+GET /javascripts/bootstrap.js 304 7.054 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.806 ms - -
+registration was successful
+POST /users/register 500 160.322 ms - 3759
+GET /stylesheets/bootstrap.css 304 4.032 ms - -
+GET /stylesheets/style.css 304 5.922 ms - -
+GET /javascripts/bootstrap.js 304 6.558 ms - -
+GET /stylesheets/bootstrap.css.map 304 3.835 ms - -
+GET /stylesheets/bootstrap.css 304 15.638 ms - -
+GET /stylesheets/style.css 304 19.043 ms - -
+GET /javascripts/bootstrap.js 304 24.875 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.985 ms - -
+POST /users/register 200 175.244 ms - 2137
+GET /stylesheets/bootstrap.css 304 3.154 ms - -
+GET /stylesheets/style.css 304 10.514 ms - -
+GET /javascripts/bootstrap.js 304 10.396 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.911 ms - -
+POST /users/register 200 63.017 ms - 2137
+GET /stylesheets/bootstrap.css 304 2.863 ms - -
+GET /stylesheets/style.css 304 0.909 ms - -
+GET /javascripts/bootstrap.js 304 1.826 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.932 ms - -
+^CTerminate batch job (Y/N)?
+^CThe system cannot open the device or file specified.
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm start
+
+> exp-login-app@0.0.0 start C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+> node ./bin/www
+
+POST /users/register 200 1478.128 ms - 2137
+GET /stylesheets/bootstrap.css 304 9.728 ms - -
+GET /javascripts/bootstrap.js 304 10.536 ms - -
+GET /stylesheets/style.css 304 12.358 ms - -
+GET /stylesheets/bootstrap.css.map 304 6.321 ms - -
+registration was successful
+POST /users/register 200 63.194 ms - 1197
+GET /stylesheets/bootstrap.css 304 3.466 ms - -
+GET /javascripts/bootstrap.js 304 3.245 ms - -
+GET /stylesheets/style.css 304 6.350 ms - -
+GET /stylesheets/bootstrap.css.map 304 1.390 ms - -
+^Terminate batch job (Y/N)?
+^CThe system cannot open the device or file specified.
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>install mongodb -S
+'install' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm install mongodb -S
+exp-login-app@0.0.0 C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+`-- mongodb@2.2.9
+  +-- es6-promise@3.2.1
+  +-- mongodb-core@2.0.11
+  | +-- bson@0.5.4
+  | `-- require_optional@1.0.0
+  |   +-- resolve-from@2.0.0
+  |   `-- semver@5.3.0
+  `-- readable-stream@2.1.5
+    +-- buffer-shims@1.0.0
+    +-- core-util-is@1.0.2
+    +-- isarray@1.0.0
+    +-- process-nextick-args@1.0.7
+    +-- string_decoder@0.10.31
+    `-- util-deprecate@1.0.2
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm uninstall mongodb -S
+- bson@0.5.4 node_modules\bson
+- buffer-shims@1.0.0 node_modules\buffer-shims
+- core-util-is@1.0.2 node_modules\core-util-is
+- es6-promise@3.2.1 node_modules\es6-promise
+- isarray@1.0.0 node_modules\isarray
+- process-nextick-args@1.0.7 node_modules\process-nextick-args
+- resolve-from@2.0.0 node_modules\resolve-from
+- semver@5.3.0 node_modules\semver
+- require_optional@1.0.0 node_modules\require_optional
+- mongodb-core@2.0.11 node_modules\mongodb-core
+- string_decoder@0.10.31 node_modules\string_decoder
+- util-deprecate@1.0.2 node_modules\util-deprecate
+- readable-stream@2.1.5 node_modules\readable-stream
+- mongodb@2.2.9 node_modules\mongodb
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm install mongod -S
+
+> kerberos@0.0.3 install C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\kerbero
+s
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\kerberos>if not defined npm_conf
+ig_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (no
+de "" rebuild )
+
+> bson@0.2.7 install C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\bson
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\bson>if not defined npm_config_n
+ode_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "
+" rebuild )
+exp-login-app@0.0.0 C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+`-- mongod@1.3.0
+  +-- mongojs@0.12.1
+  | +-- mongodb@1.4.0
+  | | +-- bson@0.2.7
+  | | | `-- nan@0.8.0
+  | | `-- kerberos@0.0.3
+  | +-- readable-stream@1.1.14
+  | | +-- core-util-is@1.0.2
+  | | +-- isarray@0.0.1
+  | | `-- string_decoder@0.10.31
+  | `-- thunky@0.1.0
+  `-- promise@5.0.0
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm uninstall mongodb
+- kerberos@0.0.3 node_modules\kerberos
+- nan@0.8.0 node_modules\nan
+- bson@0.2.7 node_modules\bson
+- mongodb@1.4.0 node_modules\mongodb
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm uninstall mongod
+- core-util-is@1.0.2 node_modules\core-util-is
+- isarray@0.0.1 node_modules\isarray
+- promise@5.0.0 node_modules\mongod\node_modules\promise
+- string_decoder@0.10.31 node_modules\string_decoder
+- readable-stream@1.1.14 node_modules\readable-stream
+- thunky@0.1.0 node_modules\thunky
+- mongojs@0.12.1 node_modules\mongojs
+- mongod@1.3.0 node_modules\mongod
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm install mongod -S
+
+> kerberos@0.0.3 install C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\kerbero
+s
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\kerberos>if not defined npm_conf
+ig_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (no
+de "" rebuild )
+
+> bson@0.2.7 install C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\bson
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app\node_modules\bson>if not defined npm_config_n
+ode_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "
+" rebuild )
+exp-login-app@0.0.0 C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+`-- mongod@1.3.0
+  +-- mongojs@0.12.1
+  | +-- mongodb@1.4.0
+  | | +-- bson@0.2.7
+  | | | `-- nan@0.8.0
+  | | `-- kerberos@0.0.3
+  | +-- readable-stream@1.1.14
+  | | +-- core-util-is@1.0.2
+  | | +-- isarray@0.0.1
+  | | `-- string_decoder@0.10.31
+  | `-- thunky@0.1.0
+  `-- promise@5.0.0
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm start
+
+> exp-login-app@0.0.0 start C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+> node ./bin/www
+
+registration was successful
+POST /users/register 200 1337.623 ms - 1197
+GET /stylesheets/bootstrap.css 304 7.783 ms - -
+GET /stylesheets/style.css 304 9.827 ms - -
+GET /javascripts/bootstrap.js 304 10.624 ms - -
+GET /stylesheets/bootstrap.css.map 304 3.836 ms - -
+^CTerminate batch job (Y/N)?
+^CThe system cannot open the device or file specified.
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>node models\mongoNativeAccess.js
+Failed to load c++ bson extension, using pure JS version
+Connect successfully to server
+Found the following records
+[ { _id: 57d1354a9081d105c4848b30,
+    name: 'kingshuk',
+    email: 'k@b',
+    username: 'kkk',
+    password: '1234' },
+  { _id: 57d1358a9081d105c4848b31,
+    name: 'Tom',
+    email: 'k@b',
+    username: 'kkk',
+    age: '23' },
+  { _id: 57d135b99081d105c4848b32,
+    name: 'Tom',
+    email: 'k@b',
+    username: 'kkkq' },
+  { _id: 57d135d39081d105c4848b33,
+    name: 'Tom',
+    email: 'dummy@spi',
+    username: 'kkksas',
+    age: '23',
+    salary: 40 } ]
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm install mongoose -S
+exp-login-app@0.0.0 C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+`-- mongoose@4.6.0
+  +-- async@1.5.2
+  +-- bson@0.5.4
+  +-- hooks-fixed@1.2.0
+  +-- kareem@1.1.3
+  +-- mongodb@2.2.9
+  | +-- es6-promise@3.2.1
+  | +-- mongodb-core@2.0.11
+  | | +-- bson@0.5.4
+  | | `-- require_optional@1.0.0
+  | |   +-- resolve-from@2.0.0
+  | |   `-- semver@5.3.0
+  | `-- readable-stream@2.1.5
+  |   +-- buffer-shims@1.0.0
+  |   +-- isarray@1.0.0
+  |   +-- process-nextick-args@1.0.7
+  |   `-- util-deprecate@1.0.2
+  +-- mpath@0.2.1
+  +-- mpromise@0.5.5
+  +-- mquery@1.11.0
+  | +-- bluebird@2.10.2
+  | `-- sliced@0.0.5
+  +-- muri@1.1.0
+  +-- regexp-clone@0.0.1
+  `-- sliced@1.0.1
+
+
+C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app>npm start
+
+> exp-login-app@0.0.0 start C:\Users\training\Desktop\Node Js,Backbone Js,Foundation\participants\participants\exp-login-app
+> node ./bin/www
+
+GET / 304 1185.872 ms - -
+GET / 200 75.183 ms - 1197
+GET /stylesheets/bootstrap.css 304 8.939 ms - -
+GET /stylesheets/style.css 304 9.331 ms - -
+GET /javascripts/bootstrap.js 304 2.325 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.520 ms - -
+GET /users/register 200 87.315 ms - 2067
+GET /stylesheets/bootstrap.css 304 1.657 ms - -
+GET /stylesheets/style.css 304 2.682 ms - -
+GET /javascripts/bootstrap.js 304 3.360 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.560 ms - -
+POST /users/register 200 234.004 ms - 2136
+GET /stylesheets/bootstrap.css 304 3.082 ms - -
+GET /stylesheets/style.css 304 3.610 ms - -
+GET /javascripts/bootstrap.js 304 0.726 ms - -
+GET /stylesheets/bootstrap.css.map 304 3.331 ms - -
+registration was successful
+(node:11240) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library inste
+ad: http://mongoosejs.com/docs/promises.html
+POST /users/register 200 159.185 ms - 1197
+{ __v: 0,
+  name: 'Tom sharma',
+  email: 'k@gmail.com',
+  username: 'tom',
+  password: '1234',
+  _id: 57d14f53f9a9b32be87fd588 }
+GET /stylesheets/bootstrap.css 304 3.148 ms - -
+GET /stylesheets/style.css 304 9.186 ms - -
+GET /javascripts/bootstrap.js 304 11.640 ms - -
+GET /stylesheets/bootstrap.css.map 304 0.617 ms - -
+GET / 304 60.052 ms - -
+GET /stylesheets/bootstrap.css 304 2.753 ms - -
+GET /stylesheets/style.css 304 3.144 ms - -
+GET /javascripts/bootstrap.js 304 3.263 ms - -
+==============================================================================================================
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Windows\system32>cd C:\Program Files\MongoDB\Server\3.2\bin
+
+C:\Program Files\MongoDB\Server\3.2\bin>mongod -f ../conf/mongod.conf
+Error reading config file: No such file or directory
+try 'mongod --help' for more information
+
+C:\Program Files\MongoDB\Server\3.2\bin>mongod -f ../conf/mongod.conf
+====================================================================================
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Windows\system32>cd C:\Program Files\MongoDB\Server\3.2\bin
+
+C:\Program Files\MongoDB\Server\3.2\bin>mongo
+2016-09-08T15:17:31.455+0530 I CONTROL  [main] Hotfix KB2731284 or later update is not installed, will zero-out data files
+MongoDB shell version: 3.2.9
+connecting to: test
+Welcome to the MongoDB shell.
+For interactive help, type "help".
+For more comprehensive documentation, see
+        http://docs.mongodb.org/
+Questions? Try the support group
+        http://groups.google.com/group/mongodb-user
+> show databases;
+local  0.000GB
+> use node-users;
+switched to db node-users
+> show collections;
+> db.createCollections("users");
+2016-09-08T15:20:44.546+0530 E QUERY    [thread1] TypeError: db.createCollections is not a function :
+@(shell):1:1
+
+> db.createCollection("users");
+{ "ok" : 1 }
+> show collections;
+users
+> db.users.insert({
+...      name:"kingshuk",
+...  email:"k@b",
+...  username:"kkk",
+...  password:"1234"
+...
+... });
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...      name:"Tom",
+...  email:"k@b",
+...  username:"kkk"
+...
+...
+> });
+2016-09-08T15:25:11.133+0530 E QUERY    [thread1] SyntaxError: expected expression, got '}' @(shell):1:0
+
+>
+> db.users.insert({
+...      name:"Tom",
+...  email:"k@b",
+...  username:"kkk",
+... age:"23"
+...
+... });
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...      name:"Tom",
+...  email:"k@b",
+...  username:"kkk"
+...
+...
+> });
+2016-09-08T15:25:27.457+0530 E QUERY    [thread1] SyntaxError: expected expression, got '}' @(shell):1:0
+
+> db.users.insert({
+...      name:"Tom",
+...  email:"k@b",
+...  username:"kkkq"
+... });
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...      name:"Tom",
+...  email:"k@b",
+...  username:"kkksas",
+... age:"23"
+... });
+WriteResult({ "nInserted" : 1 })
+> db.users.find();
+{ "_id" : ObjectId("57d1354a9081d105c4848b30"), "name" : "kingshuk", "email" : "k@b", "username" : "kkk", "password" : "1234"
+{ "_id" : ObjectId("57d1358a9081d105c4848b31"), "name" : "Tom", "email" : "k@b", "username" : "kkk", "age" : "23" }
+{ "_id" : ObjectId("57d135b99081d105c4848b32"), "name" : "Tom", "email" : "k@b", "username" : "kkkq" }
+{ "_id" : ObjectId("57d135d39081d105c4848b33"), "name" : "Tom", "email" : "k@b", "username" : "kkksas", "age" : "23" }
+> db.users.find().pretty();
+{
+        "_id" : ObjectId("57d1354a9081d105c4848b30"),
+        "name" : "kingshuk",
+        "email" : "k@b",
+        "username" : "kkk",
+        "password" : "1234"
+}
+{
+        "_id" : ObjectId("57d1358a9081d105c4848b31"),
+        "name" : "Tom",
+        "email" : "k@b",
+        "username" : "kkk",
+        "age" : "23"
+}
+{
+        "_id" : ObjectId("57d135b99081d105c4848b32"),
+        "name" : "Tom",
+        "email" : "k@b",
+        "username" : "kkkq"
+}
+{
+        "_id" : ObjectId("57d135d39081d105c4848b33"),
+        "name" : "Tom",
+        "email" : "k@b",
+        "username" : "kkksas",
+        "age" : "23"
+}
+> db.users.update({"username":"kkksas"},{$set:{"email" : "dummy@spi" ,"salary":40}});
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+> db.users.find().pretty();
+{
+        "_id" : ObjectId("57d1354a9081d105c4848b30"),
+        "name" : "kingshuk",
+        "email" : "k@b",
+        "username" : "kkk",
+        "password" : "1234"
+}
+{
+        "_id" : ObjectId("57d1358a9081d105c4848b31"),
+        "name" : "Tom",
+        "email" : "k@b",
+        "username" : "kkk",
+        "age" : "23"
+}
+{
+        "_id" : ObjectId("57d135b99081d105c4848b32"),
+        "name" : "Tom",
+        "email" : "k@b",
+        "username" : "kkkq"
+}
+{
+        "_id" : ObjectId("57d135d39081d105c4848b33"),
+        "name" : "Tom",
+        "email" : "dummy@spi",
+        "username" : "kkksas",
+        "age" : "23",
+        "salary" : 40
+}
+> db.users.drop();
+
